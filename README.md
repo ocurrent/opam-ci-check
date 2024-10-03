@@ -1,5 +1,8 @@
 # opam-ci-check
 
+This repository has now been merged into
+[`opam-repo-ci`](https://github.com/ocurrent/opam-repo-ci/).
+
 ## Synopsis
 
 A CLI tool that tests whether packages are publishable on the opam repository.
